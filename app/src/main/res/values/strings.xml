@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarWars</string>
+
+    <string name="screen_detail">Details</string>
+    <string name="label_name">Name :</string>
+    <string name="label_height">Height (Meter)</string>
+    <string name="label_mass">Mass (KG)</string>
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="network_error">Oops! Something went wrong. Please try againg.</string>
+    <string name="button_reload">Reload</string>
+</resources>
